@@ -5,4 +5,4 @@ test documentation for LibreClinica 0.2.0 pre-release
 
 | ID | title |
 | -- | ----- |
-| [T001](t001/) |  authentication with username and password |
+| [T001](t001.md) |  authentication with username and password |
