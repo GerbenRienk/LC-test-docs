@@ -1,2 +1,4 @@
+* [T000](t000.md "T000 - preparations and requirements for testing")
 * [T001](t001.md "T001 - authentication with username and password")
 * [T002](t002.md "T002 - authorization with user roles")
+* [T003](t003.md "T003 - account management")
