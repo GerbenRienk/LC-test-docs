@@ -9,4 +9,5 @@ test documentation for LibreClinica 0.2.0 pre-release
 | [T001](t001.md) | authentication with username and password |
 | [T002](t002.md) | authorization with user roles |
 | [T003](t003.md) | account management |
-
+| [T004](t004.md) | study management |
+| [T005](t005.md) | crf management |
