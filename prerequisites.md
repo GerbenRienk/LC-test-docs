@@ -1,9 +1,9 @@
-# T000 preparations and requirements for testing
+# PRE preparations and requirements for testing
 
 **Abstract:**  
 This documents describes the preparations for testing LibreClinica.
 
-## T000-01: requirements  
+## PRE-01: requirements  
 In order to be able to test a new LibreClinica release you must have:
 - access to github
 - access to a server to run LibreClinica on
@@ -11,18 +11,18 @@ In order to be able to test a new LibreClinica release you must have:
 - jdk 1.8 installed
 - tomcat 8 installed
 
-## T000-02: restore the database  
+## PRE-02: restore the database  
 **TODO**
 
-## T000-03: restore data-files  
+## PRE-03: restore data-files  
 **TODO**
 
-## T000-04: deploy the war
+## PRE-04: deploy the war
 **description:**  
 Use a browser to access [https://github.com/reliatec-gmbh/LibreClinica/releases](https://github.com/reliatec-gmbh/LibreClinica/releases) and scroll down to **Assets**
 Download the file named 
-[LibreClinica-web-0.2.0.war](https://github.com/reliatec-gmbh/LibreClinica/releases/download/v0.2.0-snapshot/LibreClinica-web-0.2.0.war)
+[LibreClinica-web-x.y.z.war](https://github.com/reliatec-gmbh/LibreClinica/releases/download/vx.y.z-snapshot/LibreClinica-web-x.y.z.war)
 
-Deploy the application on your tomcat as **lcw0202**.
+Deploy the application on your tomcat as **lcwxyz**.
 
 
