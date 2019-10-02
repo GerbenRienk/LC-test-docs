@@ -1,2 +1,6 @@
+* [PRE](prerequisites.md "PRE - preparations and requirements for testing")
 * [T001](t001.md "T001 - authentication with username and password")
 * [T002](t002.md "T002 - authorization with user roles")
+* [T003](t003.md "T003 - account management")
+* [T004](t004.md "T004 - study management")
+* [T005](t005.md "T005 - CRF management")
